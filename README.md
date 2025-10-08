@@ -6,6 +6,8 @@
 
 hier spawnen 100 ballen in verschillende kleuren.
 
+![script](/Assets/)
+
 ### opdr 2 
 
 ![alt text](Les1_opdr2.gif)
