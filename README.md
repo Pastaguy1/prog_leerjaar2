@@ -4,13 +4,13 @@
 
 ![alt text](Les4.gif)
 
-hier spawnen 100 ballen
+hier spawnen 100 ballen in verschillende kleuren.
 
 ### opdr 2 
 
 ![alt text](Les1_opdr2.gif)
 
-hier spawnen cilinders als ik met mn muis klik op het scherm
+hier spawnen cilinders als ik met mn linkermuisknop klik op het scherm
 
 ### opdr 3
 
