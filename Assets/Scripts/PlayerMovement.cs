@@ -6,8 +6,8 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        float moveX = Input.GetAxis("Horizontal"); // A/D of pijltjes
-        float moveZ = Input.GetAxis("Vertical");   // W/S of pijltjes
+        float moveX = Input.GetAxis("Horizontal"); // A/D 
+        float moveZ = Input.GetAxis("Vertical");   // W/S 
 
         Vector3 move = new Vector3(moveX, 0, moveZ);
         transform.Translate(move * moveSpeed * Time.deltaTime);

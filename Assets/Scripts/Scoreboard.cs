@@ -8,7 +8,7 @@ public class Scoreboard : MonoBehaviour
 
     private void Awake()
     {
-        // Zorg dat het tekstveld gekoppeld is
+        
         if (scoreText == null)
             scoreText = GetComponent<TMP_Text>();
 
@@ -18,13 +18,13 @@ public class Scoreboard : MonoBehaviour
 
     private void OnEnable()
     {
-        // Luistert naar pickup events
+        
         Pickup.OnPickedUp += AddScore;
     }
 
     private void OnDisable()
     {
-        // Stop luisteren als dit object uitgeschakeld is
+        
         Pickup.OnPickedUp -= AddScore;
     }
 

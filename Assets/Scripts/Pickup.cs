@@ -9,8 +9,8 @@ public class Pickup : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            OnPickedUp?.Invoke(); // Stuur event
-            Destroy(gameObject);  // Verwijder de pickup
+            OnPickedUp?.Invoke(); 
+            Destroy(gameObject);  
         }
     }
 }
