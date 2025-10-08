@@ -6,11 +6,13 @@
 
 hier spawnen 100 ballen in verschillende kleuren.
 
-![script](/Assets/)
+![script](/Assets/Scripts/les1_opdr1/BallSpawner.cs)
 
 ### opdr 2 
 
 ![alt text](Les1_opdr2.gif)
+
+![script](/Assets/Scripts/)
 
 hier spawnen cilinders als ik met mn linkermuisknop klik op het scherm
 
