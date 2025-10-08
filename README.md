@@ -12,7 +12,7 @@ hier spawnen 100 ballen in verschillende kleuren.
 
 ![alt text](Les1_opdr2.gif)
 
-![script](/Assets/Scripts/)
+![script](/Assets/Scripts/les1_opdr2/TowerSpawner.cs)
 
 hier spawnen cilinders als ik met mn linkermuisknop klik op het scherm
 
@@ -20,11 +20,15 @@ hier spawnen cilinders als ik met mn linkermuisknop klik op het scherm
 
 ![alt text](Les1_opdr3.gif)
 
+![script](Assets/Scripts/les1_opdr3/EnemySpawner.cs)
+
 hier spawnen meerdere enemys als ik op w klik en verdwijnen ze als ik op Q klik. ze spawnen alleen niet random wat wel volgens mij in de code staat.
 
 ### les 2 Action events
 
 ![alt text](Les2.gif)
+
+![script](Assets/Scripts/les2/Scoreboard.cs)
 
 ### opdr 3 
 ## ?
