@@ -39,4 +39,3 @@ hier spawnen meerdere enemys als ik op w klik en verdwijnen ze als ik op Q klik.
 
 ### opdr 5
 
-![alt text](Les5.gif)
